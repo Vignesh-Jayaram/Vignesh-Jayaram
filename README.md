@@ -1,4 +1,22 @@
-### Hi there 👋
+# *Vignesh Jayaraman*   ![Focus and Win](https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif)
+
+<br>
+
+
+## About
+
+<br>
+
+- A self-taught FrontEnd Develper and ML enthusiast 
+- Learning FullStack Developement and Data Science
+- Skills:    Web Development, Research & Data Analysis, Data Mining, Data processing & Visualisation
+- Interests: Mathematics, Science, Reading, Investement Management, Logical Deduction, Psychology 
+- Hobby:     Watching Movies & Series, Listening to Podcast 
+- Fauvorite Quote: "You are never wrong to do the right thing" ~ Mark Twain.
+- [Profile](https://www.0xabdulkhalid.ml)
+- [Resume]("")
+
+<br>
 
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Vignesh-Jayaram&hide=prs&show_icons=true&theme=transparent"/>
 
