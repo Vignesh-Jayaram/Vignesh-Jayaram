@@ -31,5 +31,26 @@
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
+## Resources: *I personally have used all these resources to learn Web Development.*
+### To Learn Web Development:
+<br>
+
+1. [Introduction](https://www.youtube.com/watch?v=C-EHoNfkoDM)
+2. [How the Web Works](https://www.youtube.com/watch?v=hJHvdBlSxug)
+3. [For HTML and CSS](https://www.w3schools.com/)
+4. [JavaScript](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+5. [JavaScript - ES6](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
+6. [JavaScript - OOPs](https://www.youtube.com/watch?v=PFmuCDHHpwk)
+7. [Tailwind CSS](https://www.youtube.com/watch?v=dFgzHOX84xQ)
+8. [ReactJS](https://www.youtube.com/watch?v=Ke90Tje7VS0)
+9. [React.js for Beginners](https://www.youtube.com/playlist?list=PLf16UKl7nR5ARPKtuI76E-ShyaiKH50IF)
+10. [React.js Build Projects](https://www.youtube.com/@SonnySangha)
+
+<br>
+
+### Note:
+- *Do not make the mistake I did while learning programming, **Get out of the Learning Loop and Start building projects***
+- *Beleive me the easiest way to learn and progress in coding is to **Learn by Doing***
+- *I'll keep this page updated and add additional resources to learn **Machine Learning, Deep Learning, Mathematics..**.I'll soon create a separate repository to add all these resources*
