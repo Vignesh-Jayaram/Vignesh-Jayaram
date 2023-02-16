@@ -7,11 +7,11 @@
 
 <br>
 
-- A self-taught FrontEnd Develper and ML enthusiast 
-- Learning FullStack Developement and Data Science
-- Skills:    Web Development, Research & Data Analysis, Data Mining, Data processing & Visualisation
-- Interests: Mathematics, Science, Reading, Investement Management, Logical Deduction, Psychology 
-- Hobby:     Watching Movies & Series, Listening to Podcast 
+- A self-taught FrontEnd Develper and ML enthusiast.
+- Learning FullStack Developement and Data Science.
+- Skills:    Web Development, Research & Data Analysis, Data Mining, Data processing & Visualisation.
+- Interests: Mathematics, Science, Reading, Investement Management, Logical Deduction, Psychology.
+- Hobby:     Watching Movies & Series, Listening to Podcast.
 - Fauvorite Quote: "You are never wrong to do the right thing" ~ Mark Twain.
 - [Profile](https://www.0xabdulkhalid.ml)
 - [Resume]("")
@@ -33,7 +33,7 @@
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-## Resources: *I personally have used all these resources to learn Web Development.*
+## Resources: ( *I personally have used all these resources to learn Web Development.* )
 ### To Learn Web Development:
 <br>
 
@@ -51,6 +51,6 @@
 <br>
 
 ### Note:
-- *Do not make the mistake I did while learning programming, **Get out of the Learning Loop and Start building projects***
-- *Beleive me the easiest way to learn and progress in coding is to **Learn by Doing***
-- *I'll keep this page updated and add additional resources to learn **Machine Learning, Deep Learning, Mathematics..**.I'll soon create a separate repository to add all these resources*
+- *Do not make the mistake I did while learning programming, **Get out of the Learning Loop and Start building projects***.
+- *Beleive me the easiest way to learn and progress in coding is to **Learn by Doing***.
+- *I'll keep this page updated and add additional resources to learn **Machine Learning, Deep Learning, Mathematics..**.I'll soon create a separate repository to add all these resources*.
