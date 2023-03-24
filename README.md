@@ -9,8 +9,8 @@
 
 - A self-taught FrontEnd Develper and ML enthusiast.
 - Learning FullStack Developement and Data Science.
-- Skills:    Web Development, Research & Data Analysis, Data Mining, Data processing & Visualisation.
-- Interests: Mathematics, Science, Reading, Investement Management, Logical Deduction, Psychology.
+- Skills:    Web Development, UI Development, Research & Data Analysis, Data Mining, Data processing & Visualisation.
+- Interests: Mathematics, Science, Reading, Investement Management, Logical Deductions, Psychology.
 - Hobby:     Watching Movies & Series, Listening to Podcast.
 - Fauvorite Quote: "You are never wrong to do the right thing" ~ Mark Twain.
 - [Profile](https://www.0xabdulkhalid.ml)
@@ -51,6 +51,6 @@
 <br>
 
 ### Note:
-- *Do not make the mistake I did while learning programming, **Get out of the Learning Loop and Start building projects***.
+- *Do not make the mistake I did while learning programming. **Get out of the Learning Loop and Start building projects***.
 - *Beleive me the easiest way to learn and progress in coding is to **Learn by Doing***.
 - *I'll keep this page updated and add additional resources to learn **Machine Learning, Deep Learning, Mathematics..**.I'll soon create a separate repository to add all these resources*.
